@@ -257,6 +257,12 @@ namespace TestingGrounds.Droid
 			// aapt resource value: 0x7f050010
 			public const int iFormFieldValue = 2131034128;
 			
+			// aapt resource value: 0x7f050011
+			public const int searchview = 2131034129;
+			
+			// aapt resource value: 0x7f050012
+			public const int textview = 2131034130;
+			
 			static Id()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
